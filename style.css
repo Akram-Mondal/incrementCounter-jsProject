@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: #4d4db7;
+}
+
+.fa-solid{
+    color: white;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+
+span{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.counter_container{
+    margin-right: 150px;
+    text-align: center;
+}
+
+.counter{
+    color: #dddd01;
+    font-size: 100px;
+}
